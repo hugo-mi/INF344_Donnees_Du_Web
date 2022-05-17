@@ -1,4 +1,4 @@
-# INF344_Donnees_Du_Web : Projet Mul
+# INF344_Donnees_Du_Web : Projets multilples sur le Web Sémantique
 
 ## Projet : Tous les chemins mènent à la philosophie
 
